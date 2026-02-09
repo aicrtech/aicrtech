@@ -46,5 +46,5 @@
 
 ✔️ Ready to work in new platforms and apply innovative solutions to dynamic challenges.
 
-🙂 Reach me: I'm allways here! 
+🙂 How to reach me? I'm allways here! 
 
