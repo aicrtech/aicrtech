@@ -16,7 +16,7 @@
 
 ✨ API Development: Hands-on experience in developing APIs, building scalable and efficient integrations to support modern web applications. Design and implemented RESTful services, ensuring seamless communication between front-end components and back-end systems.
 
-✔️ [api-authorization] (https://githubhttps://github.com/aicrtech/api-authorization/): is a tool and framework in different programming languages to show how to implement API authorization and authentication to use secure services with examples provided in : PHP, python and 
+✔️ [api-authorization] (https://github.com/aicrtech/api-authorization/): is a tool and framework in different programming languages to show how to implement API authorization and authentication to use secure services with examples provided in : PHP, python and 
 
 🤖 Use of IA tools to improve efficiency, and learn theory about Neural Networks, Machine Learning (ML), Deep Learning (DL), google gemini models, create your own chatbot and use the MCP standard to connect IA agents.
 
